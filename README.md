@@ -1,0 +1,1 @@
+This is still a work in progress. This is my attempt at recreating BDODAE since that no longer exists... BDO_SQL_Project has the main code that creates the Database. You can look at the ERR_Diagram to get a view of the tables and relationships. 
